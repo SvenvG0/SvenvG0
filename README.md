@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SvenvG0
 - 👀 I’m interested in everything, still swaying between focus groups
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Python, PowerShell and SQL
 - 💞️ I’m looking to collaborate on small projects to learn
 - 📫 How to reach me, pm
 
