@@ -226,7 +226,7 @@ gftobins python
 Het eerste resultaat zou het juiste moeten zijn. Klik op de link en kopieer de URL.
 
 #### Resultaat:
-![alt text](https://github.com/SvenvG0/SvenvG0/blob/main/images/gftobins_python.png?raw=true)
+![alt text]("https://github.com/SvenvG0/SvenvG0/blob/main/images/gftobins python.png"?raw=true)
 
 #### Antwoord:
 
