@@ -22,6 +22,7 @@ nmap -sV 10.10.97.61 --top-ports 100
 
 #### Resultaat:
 
+![alt text](https://github.com/SvenvG0/SvenvG0/blob/main/images/nmap_results.png?raw=true)
 ![alt text](<../../../../Desktop/Security RootMe/nmap_results.png>)
 
 We zien dat:
